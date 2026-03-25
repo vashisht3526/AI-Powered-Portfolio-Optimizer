@@ -1,18 +1,16 @@
-
-
-🚀 AI-Powered Dynamic Portfolio Optimizer
+### 🚀 AI-Powered Dynamic Portfolio Optimizer
 
 This project is an end-to-end **AI-driven portfolio optimization system** designed for the **Indian stock market (NIFTY 50)**. It combines quantitative finance, backend engineering, and AI integration into a full-stack web application.
 
 ---
 
-📌 Overview
+### 📌 Overview
 
 The system fetches and maintains **10 years of historical NSE stock data**, computes financial metrics using a configurable lookback window, and performs **risk-adjusted portfolio optimization**. It supports **dynamic rebalancing, backtesting**, and provides **AI-powered portfolio insights**.
 
 ---
 
-⚙️ Features
+### ⚙️ Features
 
 * 📊 Historical data ingestion with automatic updates
 * 📈 Expected return, volatility, covariance & correlation calculation
@@ -28,7 +26,7 @@ The system fetches and maintains **10 years of historical NSE stock data**, comp
 
 ---
 
-🧠 Key Concepts
+### 🧠 Key Concepts
 
 * Modern Portfolio Theory
 * Sharpe Ratio Optimization
@@ -39,7 +37,7 @@ The system fetches and maintains **10 years of historical NSE stock data**, comp
 
 ---
 
-🛠 Tech Stack
+### 🛠 Tech Stack
 
 **Backend:** Python, FastAPI, Pandas, NumPy
 **Frontend:** React, TypeScript
@@ -50,7 +48,7 @@ The system fetches and maintains **10 years of historical NSE stock data**, comp
 
 ---
 
-🔁 System Workflow
+### 🔁 System Workflow
 
 ```
 Historical Data (10 Years)
@@ -68,9 +66,11 @@ API Responses
 Frontend Dashboard
         ↓
 AI Assistant Insights
+```
 
+---
 
-🎯 Objective
+### 🎯 Objective
 
 To build a **realistic, academically sound portfolio optimization system** that:
 
@@ -79,8 +79,10 @@ To build a **realistic, academically sound portfolio optimization system** that:
 * Maintains diversification
 * Avoids overfitting and data leakage
 
+---
 
-⚠️ Disclaimer
+### ⚠️ Disclaimer
 
 This project is for **educational and research purposes only** and should not be used as financial advice.
 
+---
