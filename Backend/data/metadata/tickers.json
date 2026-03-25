@@ -1,0 +1,298 @@
+{
+  "ULTRACEMCO.NS": {
+    "name": "ULTRACEMCO",
+    "sector": null
+  },
+  "NESTLEIND.NS": {
+    "name": "NESTLEIND",
+    "sector": null
+  },
+  "WIPRO.NS": {
+    "name": "WIPRO",
+    "sector": null
+  },
+  "ONGC.NS": {
+    "name": "ONGC",
+    "sector": null
+  },
+  "POWERGRID.NS": {
+    "name": "POWERGRID",
+    "sector": null
+  },
+  "RELIANCE.NS": {
+    "name": "RELIANCE",
+    "sector": null
+  },
+  "SBILIFE.NS": {
+    "name": "SBILIFE",
+    "sector": null
+  },
+  "SHRIRAMFIN.NS": {
+    "name": "SHRIRAMFIN",
+    "sector": null
+  },
+  "SBIN.NS": {
+    "name": "SBIN",
+    "sector": null
+  },
+  "SUNPHARMA.NS": {
+    "name": "SUNPHARMA",
+    "sector": null
+  },
+  "TCS.NS": {
+    "name": "TCS",
+    "sector": null
+  },
+  "TATACONSUM.NS": {
+    "name": "TATACONSUM",
+    "sector": null
+  },
+  "TMPV.NS": {
+    "name": "TMPV",
+    "sector": null
+  },
+  "TATASTEEL.NS": {
+    "name": "TATASTEEL",
+    "sector": null
+  },
+  "TECHM.NS": {
+    "name": "TECHM",
+    "sector": null
+  },
+  "TITAN.NS": {
+    "name": "TITAN",
+    "sector": null
+  },
+  "TRENT.NS": {
+    "name": "TRENT",
+    "sector": null
+  },
+  "ADANIENT.NS": {
+    "name": "ADANIENT",
+    "sector": null
+  },
+  "ADANIPORTS.NS": {
+    "name": "ADANIPORTS",
+    "sector": null
+  },
+  "APOLLOHOSP.NS": {
+    "name": "APOLLOHOSP",
+    "sector": null
+  },
+  "ASIANPAINT.NS": {
+    "name": "ASIANPAINT",
+    "sector": null
+  },
+  "AXISBANK.NS": {
+    "name": "AXISBANK",
+    "sector": null
+  },
+  "BAJAJ-AUTO.NS": {
+    "name": "BAJAJ-AUTO",
+    "sector": null
+  },
+  "BAJFINANCE.NS": {
+    "name": "BAJFINANCE",
+    "sector": null
+  },
+  "BAJAJFINSV.NS": {
+    "name": "BAJAJFINSV",
+    "sector": null
+  },
+  "BEL.NS": {
+    "name": "BEL",
+    "sector": null
+  },
+  "BHARTIARTL.NS": {
+    "name": "BHARTIARTL",
+    "sector": null
+  },
+  "CIPLA.NS": {
+    "name": "CIPLA",
+    "sector": null
+  },
+  "COALINDIA.NS": {
+    "name": "COALINDIA",
+    "sector": null
+  },
+  "DRREDDY.NS": {
+    "name": "DRREDDY",
+    "sector": null
+  },
+  "EICHERMOT.NS": {
+    "name": "EICHERMOT",
+    "sector": null
+  },
+  "ETERNAL.NS": {
+    "name": "ETERNAL",
+    "sector": null
+  },
+  "GRASIM.NS": {
+    "name": "GRASIM",
+    "sector": null
+  },
+  "HCLTECH.NS": {
+    "name": "HCLTECH",
+    "sector": null
+  },
+  "HDFCBANK.NS": {
+    "name": "HDFCBANK",
+    "sector": null
+  },
+  "HDFCLIFE.NS": {
+    "name": "HDFCLIFE",
+    "sector": null
+  },
+  "HINDALCO.NS": {
+    "name": "HINDALCO",
+    "sector": null
+  },
+  "HINDUNILVR.NS": {
+    "name": "HINDUNILVR",
+    "sector": null
+  },
+  "ICICIBANK.NS": {
+    "name": "ICICIBANK",
+    "sector": null
+  },
+  "INFY.NS": {
+    "name": "INFY",
+    "sector": null
+  },
+  "INDIGO.NS": {
+    "name": "INDIGO",
+    "sector": null
+  },
+  "JSWSTEEL.NS": {
+    "name": "JSWSTEEL",
+    "sector": null
+  },
+  "JIOFIN.NS": {
+    "name": "JIOFIN",
+    "sector": null
+  },
+  "KOTAKBANK.NS": {
+    "name": "KOTAKBANK",
+    "sector": null
+  },
+  "LT.NS": {
+    "name": "LT",
+    "sector": null
+  },
+  "M&M.NS": {
+    "name": "M&M",
+    "sector": null
+  },
+  "MARUTI.NS": {
+    "name": "MARUTI",
+    "sector": null
+  },
+  "MAXHEALTH.NS": {
+    "name": "MAXHEALTH",
+    "sector": null
+  },
+  "NTPC.NS": {
+    "name": "NTPC",
+    "sector": null
+  },
+  "SHRIRAMFIN": {
+    "name": "SHRIRAMFIN",
+    "sector": null
+  },
+  "TITAN": {
+    "name": "TITAN",
+    "sector": null
+  },
+  "TECHM": {
+    "name": "TECHM",
+    "sector": null
+  },
+  "ASIANPAINT": {
+    "name": "ASIANPAINT",
+    "sector": null
+  },
+  "HINDALCO": {
+    "name": "HINDALCO",
+    "sector": null
+  },
+  "DRREDDY": {
+    "name": "DRREDDY",
+    "sector": null
+  },
+  "SBILIFE": {
+    "name": "SBILIFE",
+    "sector": null
+  },
+  "HCLTECH": {
+    "name": "HCLTECH",
+    "sector": null
+  },
+  "ULTRACEMCO": {
+    "name": "ULTRACEMCO",
+    "sector": null
+  },
+  "COALINDIA": {
+    "name": "COALINDIA",
+    "sector": null
+  },
+  "NTPC": {
+    "name": "NTPC",
+    "sector": null
+  },
+  "KOTAKBANK": {
+    "name": "KOTAKBANK",
+    "sector": null
+  },
+  "BHARTIARTL": {
+    "name": "BHARTIARTL",
+    "sector": null
+  },
+  "NESTLEIND": {
+    "name": "NESTLEIND",
+    "sector": null
+  },
+  "EICHERMOT": {
+    "name": "EICHERMOT",
+    "sector": null
+  },
+  "ONGC": {
+    "name": "ONGC",
+    "sector": null
+  },
+  "BAJAJ-AUTO": {
+    "name": "BAJAJ-AUTO",
+    "sector": null
+  },
+  "MARUTI": {
+    "name": "MARUTI",
+    "sector": null
+  },
+  "TATASTEEL": {
+    "name": "TATASTEEL",
+    "sector": null
+  },
+  "TATACONSUM": {
+    "name": "TATACONSUM",
+    "sector": null
+  },
+  "M&M": {
+    "name": "M&M",
+    "sector": null
+  },
+  "HDFCLIFE": {
+    "name": "HDFCLIFE",
+    "sector": null
+  },
+  "BEL": {
+    "name": "BEL",
+    "sector": null
+  },
+  "SUNPHARMA": {
+    "name": "SUNPHARMA",
+    "sector": null
+  },
+  "GRASIM": {
+    "name": "GRASIM",
+    "sector": null
+  }
+}
